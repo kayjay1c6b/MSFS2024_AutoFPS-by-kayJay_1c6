@@ -9,10 +9,9 @@ I am a web developer, but I am not an expert in the language or techniques used 
 In my initial tests, the modified app proved to be even more effective in MSFS 2024 than it was in MSFS 2020—at least for me. I also made some changes to improve functionality for VR users, as the app's utility in VR had previously been quite limited.
 
 I worked on this project under tight time constraints, as I have a newborn at home and limited availability. As a result, there may still be some bugs or issues that I couldn’t fully test. However, it has performed well for me so far, and I plan to continue developing, debugging, and improving the app as my schedule permits. I believe I now have a good understanding of how it works.
-
+##
 If you find the app helpful and would like to support further development—or if you'd simply like to show your appreciation—please consider buying me a coffee:
 ##
-
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
 ##
 ## Download
