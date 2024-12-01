@@ -14,6 +14,7 @@ I worked on this project under tight time constraints, as I have a newborn at ho
 If you find the app helpful and would like to support further development—or if you'd simply like to show your appreciation—please consider buying me a coffee:
 ##
 If you find the app helpful and would like to support further development or you’d like to support my work, consider buying me a coffee!
+<br>
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
 ##
 ## Download
