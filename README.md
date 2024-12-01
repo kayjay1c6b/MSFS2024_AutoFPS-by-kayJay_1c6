@@ -10,7 +10,7 @@ I am a web developer and I am no expert in the language or technics in which thi
 If you are happy with this app and want to support my efforts with further development of this app or you just want to thank me consider buying me a coffee:
 
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
-
+##
 ## Download
 [Download the latest version here](https://github.com/kayjay1c6b/MSFS2024_AutoFPS-by-kayJay_1c6/releases/tag/publish).
 ## Changes to previous iteration
