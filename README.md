@@ -5,11 +5,14 @@ Since the author of the current iteration of this app said that for now he doesn
 
 ## Developer notes
 
-I am a web developer and I am no expert in the language or technics in which this mod is written but i have taken an attempt to make it work with new sim and improve it. But i wanted to contribute to the community with this since it has made a huge difference for me in MSFS 2020 and the MSFS's performance isn't great. Upon first tests I realized that again it makes huge difference and works even better than in MSFS 2020 (for me) and I wanted to give this opportunity to everyone. I also made changes for those who fly in vr as for us this app had very limited use before. Also I have a newborn son at home so I don't have much time to make this perfect. So there might be some bugs or problems as I couldn't test this properly but it works great for me and I intend to further work on the app, fix bugs and improve it in my limited time as I think I understood it well. You can download the app from relases page.
-
+I am a web developer and I am no expert in the language or technics in which this mod is written but i have taken an attempt to make it work with new sim and improve it. But i wanted to contribute to the community with this since it has made a huge difference for me in MSFS 2020 and the MSFS's performance isn't great. Upon first tests I realized that again it makes huge difference and works even better than in MSFS 2020 (for me) and I wanted to give this opportunity to everyone. I also made changes for those who fly in vr as for us this app had very limited use before. Also I have a newborn son at home so I don't have much time to make this perfect. So there might be some bugs or problems as I couldn't test this properly but it works great for me and I intend to further work on the app, fix bugs and improve it in my limited time as I think I understood it well. 
+**
 If you are happy with this app and want to support my efforts with further development of this app or you just want to thank me consider buying me a coffee:
 
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
+
+## Download
+[Download the latest version here](https://github.com/kayjay1c6b/MSFS2024_AutoFPS-by-kayJay_1c6/releases/tag/publish).
 ## Changes to previous iteration
 
 I have changed the Auto TLOD into VR Optimized mode - functions by using an altitude schedule and is best for when using system FPS caps.
