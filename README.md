@@ -3,7 +3,8 @@
 ## Notice
 Since the author of the current iteration of this app said that for now he doesn't intend to make this app work with with MSFS 2024 I took it in my own hands and made it work with some limitations. 
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="kayjay1c6b" data-color="#FFDD00" data-emoji="" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
 
 ## Developer notes
 
