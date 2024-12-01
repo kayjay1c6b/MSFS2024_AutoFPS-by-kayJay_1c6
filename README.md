@@ -3,23 +3,23 @@
 ## Notice
 Since the author of the current iteration of this app said that for now he doesn't intend to make this app work with with MSFS 2024 I took it in my own hands and made it work with some limitations. 
 
-
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
-
 ## Developer notes
 
-I am a web developer and I am no expert in the language or technics in which this mod is written but i have taken an attempt to make it work with new sim and improve it. But i wanted to contribute to the community with this since it has made a huge difference for me in MSFS 2020 and the MSFS's performance isn't great. Upon first tests I realized that again it makes huge difference and works even better than in MSFS 2020 (for me) and I wanted to give this opportunity to everyone. Also I have a newborn son at home so I don't have much time to make this perfect. So there might be some bugs or problems as I couldn't test this properly but it works great for me and I intend to further work on the app, fix bugs and improve it in my limited time as I think I understood it well.
+I am a web developer and I am no expert in the language or technics in which this mod is written but i have taken an attempt to make it work with new sim and improve it. But i wanted to contribute to the community with this since it has made a huge difference for me in MSFS 2020 and the MSFS's performance isn't great. Upon first tests I realized that again it makes huge difference and works even better than in MSFS 2020 (for me) and I wanted to give this opportunity to everyone. I also made changes for those who fly in vr as for us this app had very limited use before. Also I have a newborn son at home so I don't have much time to make this perfect. So there might be some bugs or problems as I couldn't test this properly but it works great for me and I intend to further work on the app, fix bugs and improve it in my limited time as I think I understood it well.
 
+If you are happy with this app and want to support my efforts with developing this app consider buying me a coffee:
+
+[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
 ## Changes to previous iteration
 
 I have changed the Auto TLOD into VR Optimized mode - functions by using an altitude schedule and is best for when using system FPS caps.
-      - TLOD will adjust based on an altitude band with a base and top level and with TLOD values defined for each of these altitudes.
-      - The app will set TLOD Base at or below the Alt TLOD Base (AGL), set the TLOD Top at or above Alt TLOD Top (AGL) and interpolate in between.
-      - The nominal LOD Step Size can be set to allow users experiencing stuttering issues to try different LOD step sizes to help resolve the issue. 	The default value is 5. (1 - 20 allowable)
-	- This is a modified Auto TLOD setting but now it takes into account FPS and lowers the TLOD when fps drop.
-	- Put your VR FPS or refresh rate (72, 80, 90, 120) into the box and you can experiment with TLOD base, TLOD top and LOD step (Higher TLOD top 	and lower TLOD step = less stutters, more performance)
-	- It is good for VR because in VR we have fixed FPS so it never goes past the desired FPS hence TLOD increase is not possible. 
-	- It increases TLOD based on altitude and lowers in case of FPS drop.
+- TLOD will adjust based on an altitude band with a base and top level and with TLOD values defined for each of these altitudes.
+- The app will set TLOD Base at or below the Alt TLOD Base (AGL), set the TLOD Top at or above Alt TLOD Top (AGL) and interpolate in between.
+- The nominal LOD Step Size can be set to allow users experiencing stuttering issues to try different LOD step sizes to help resolve the issue. The default value is 5. (1 - 20 allowable)
+- This is a modified Auto TLOD setting but now it takes into account FPS and lowers the TLOD when fps drop.
+- Put your VR FPS or refresh rate (72, 80, 90, 120) into the box and you can experiment with TLOD base, TLOD top and LOD step (Higher TLOD top 	and lower TLOD step = less stutters, more performance)
+- It is good for VR because in VR we have fixed FPS so it never goes past the desired FPS hence TLOD increase is not possible. 
+- It increases TLOD based on altitude and lowers in case of FPS drop.
 
 ## Known issues
 
