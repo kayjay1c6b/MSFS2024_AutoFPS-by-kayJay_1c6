@@ -5,10 +5,15 @@ Since the author of the current iteration of this app said that for now he doesn
 
 ## Developer notes
 
-I am a web developer and I am no expert in the language or technics in which this mod is written but i have taken an attempt to make it work with new sim and improve it. But i wanted to contribute to the community with this since it has made a huge difference for me in MSFS 2020 and the MSFS's performance isn't great. Upon first tests I realized that again it makes huge difference and works even better than in MSFS 2020 (for me) and I wanted to give this opportunity to everyone. I also made changes for those who fly in vr as for us this app had very limited use before. Also I have a newborn son at home so I don't have much time to make this perfect. So there might be some bugs or problems as I couldn't test this properly but it works great for me and I intend to further work on the app, fix bugs and improve it in my limited time as I think I understood it quite well. 
-##
-If you are happy with this app and want to support my efforts with further development of this app or you just want to thank me consider buying me a coffee:
+I am a web developer, but I am not an expert in the language or techniques used to create this mod. Nevertheless, I took it upon myself to adapt the app for the new simulator and enhance it where possible. My goal was to contribute something valuable to the community, as this app has made a significant difference for me in MSFS 2020. With MSFS 2024's performance being less than ideal, I wanted to bring the same (or better) experience to others.
 
+In my initial tests, the modified app proved to be even more effective in MSFS 2024 than it was in MSFS 2020—at least for me. I also made some changes to improve functionality for VR users, as the app's utility in VR had previously been quite limited.
+
+I worked on this project under tight time constraints, as I have a newborn at home and limited availability. As a result, there may still be some bugs or issues that I couldn’t fully test. However, it has performed well for me so far, and I plan to continue developing, debugging, and improving the app as my schedule permits. I believe I now have a good understanding of how it works.
+
+If you find the app helpful and would like to support further development—or if you'd simply like to show your appreciation—please consider buying me a coffee:
+##
+If you find the app helpful and would like to support further development or you’d like to support my work, consider buying me a coffee!
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
 ##
 ## Download
