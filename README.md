@@ -15,7 +15,7 @@ If you find the app helpful and would like to support further development—or i
 [![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kayjay1c6b)
 ##
 ## Download
-[Download the latest version here](https://github.com/kayjay1c6b/MSFS2024_AutoFPS-by-kayJay_1c6/releases/tag/publish).
+[Download the latest version here](https://github.com/kayjay1c6b/MSFS2024_AutoFPS-by-kayJay_1c6/releases).
 ## Changes to previous iteration
 
 I have changed the Auto TLOD into VR Optimized mode - functions by using an altitude schedule and is best for when using system FPS caps.
