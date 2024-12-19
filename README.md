@@ -26,17 +26,7 @@ I have changed the Auto TLOD into VR Optimized mode - functions by using an alti
 - Put your VR FPS or refresh rate (72, 80, 90, 120) into the box and you can experiment with TLOD base, TLOD top and LOD step (Higher TLOD top 	and lower TLOD step = less stutters, more performance)
 - It is good for VR because in VR we have fixed FPS so it never goes past the desired FPS hence TLOD increase is not possible. 
 - It increases TLOD based on altitude and lowers in case of FPS drop.
-
-## Known issues
-
-- The autostart feature doesn't work and if you choose autostart in the instalation you will get an error but the app installs and works correctly,you just have to run it manually.
-
-- It is tecommended to set TLOD in the sim to your minimum TLOD (only first time) because the app doesn't recognize walkaround mode now and if you had for example TLOD 100 set in the sim it won't be changed in the walkaround mode and you will have bad performance. TLOD min will be set when you will get into the cockpit.
-
-- The app doesn't recognise sim paused now or in photo mode so if you enter one of these modes the app thinks that you are in the main menu. So if you come back and you are in VR Optimized mode you start to build TLOD again (this is very minor)
-
-
-
+- The app detects (in vr optimized mode) category of your aircraft based on weight and adds some TLOD to smaller planes (you usually have better performance with them) and takes away some TLOD for heavier planes. So set your TLOD min and max somewhere in the middle and you will see how TLOD min and max change based on aircraft size next to ATLOD. Have a play with it and let me know what do you think.
 
 ## Summary
 Based on muumimorko's idea and code in MSFS_AdaptiveLOD, as further developed by Fragtality in DynamicLOD and  DynamicLOD_ResetEdition by ResetXPDR i continue the effort to improve Msfs's experience in MSFS2024_AutoFPS by kayJay_1c6b. <br/><br/>
