@@ -1,7 +1,7 @@
 # MSFS2024_AutoFPS by kayJay_1c6b
 
 ## Notice
-Since the developer of the current iteration of this app has stated that, for now, they do not intend to make it compatible with MSFS 2024, I decided to take matters into my own hands and make it work—albeit with some limitations.
+There is a new version 1.0.3.0 that fixes the app not working after latest MSFS update to version 1.0.2.8
 ## Developer notes
 
 I am a web developer, but I am not an expert in the language or techniques used to create this mod. Nevertheless, I took it upon myself to adapt the app for the new simulator and enhance it where possible. My goal was to contribute something valuable to the community, as this app has made a significant difference for me in MSFS 2020. With MSFS 2024's performance being less than ideal, I wanted to bring the same (or better) experience to others.
