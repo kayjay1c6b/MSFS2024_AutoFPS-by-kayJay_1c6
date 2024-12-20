@@ -22,7 +22,7 @@ I have changed the Auto TLOD into VR Optimized mode - functions by using an alti
 - TLOD will adjust based on an altitude band with a base and top level and with TLOD values defined for each of these altitudes.
 - The app will set TLOD Base at or below the Alt TLOD Base (AGL), set the TLOD Top at or above Alt TLOD Top (AGL) and interpolate in between.
 - The nominal LOD Step Size can be set to allow users experiencing stuttering issues to try different LOD step sizes to help resolve the issue. The default value is 5. (1 - 20 allowable)
-- This is a modified Auto TLOD setting but now it takes into account FPS and lowers the TLOD when fps drop.
+- This is a modified Auto TLOD setting but now it takes into account FPS and lowers the TLOD when fps drop (TLOD can drop up to half of TLOD min due to performance, TLOD min is used if performance is good).
 - Put your VR FPS or refresh rate (72, 80, 90, 120) into the box and you can experiment with TLOD base, TLOD top and LOD step (Higher TLOD top 	and lower TLOD step = less stutters, more performance)
 - It is good for VR because in VR we have fixed FPS so it never goes past the desired FPS hence TLOD increase is not possible. 
 - It increases TLOD based on altitude and lowers in case of FPS drop.
